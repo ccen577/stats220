@@ -48,7 +48,8 @@ image_write(meme, "my_meme.png")
 
 ## The reason I created this meme:
 * Simply just because I was hungry
-  - then I was thinking what to eat by the time...meat or vege?
+  - then I was thinking what to eat by the time...
+  - meat or vege?
 * I want to show something really stands for my feelings
 * The easiest way that come up to my mind was -
   ** Creating a meme! **
