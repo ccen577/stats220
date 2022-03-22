@@ -1,7 +1,7 @@
 # meme 
 ```{r}
 library(magick)
- ** Creating a meme! **
+
 ## square one
 meat <- image_read("https://images.squarespace-cdn.com/content/v1/53b839afe4b07ea978436183/1608506169128-S6KYNEV61LEP5MS1UIH4/traditional-food-around-the-world-Travlinmad.jpg") %>% 
   image_scale(500)
@@ -48,11 +48,11 @@ meme <- image_read("http://localhost:15289/session/preview.jpeg?viewer_pane=1&ca
 image_write(meme, "my_meme.png")
 ```
 
-## The reason I created this meme:
+**The reason I created this meme:**
 * Simply just because I was hungry
   - then I was thinking what to eat by the time...
-  - meat or vege?
+  - *meat or vege?*
 * I want to show something really stands for my feelings
-* The easiest way that come up to my mind was -
+* The easiest way that comes up to my mind was - *Creating a meme!*
  
  
