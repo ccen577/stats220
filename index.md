@@ -43,4 +43,13 @@ c(top_row, bottom_row) %>%
 
 ## my_meme
 meme <- image_read("http://localhost:15289/session/preview.jpeg?viewer_pane=1&capabilities=1&host=http%3A%2F%2F127.0.0.1%3A47555")
+
 image_write(meme, "my_meme.png")
+
+## The reason I created this meme:
+* Simply just because I was hungry
+  - then I was thinking what to eat by the time...meat or vege?
+* I want to show something really stands for my feelings
+* The easiest way that come up to my mind was -
+  ** Creating a meme! **
+ 
