@@ -53,6 +53,18 @@ image_write(meme, "my_meme.png")
   - then I was thinking what to eat by the time...
   - *meat or vege?*
 * I want to show something really stands for my feelings
+  - having meat makes me happier while vegetable is good for my body function
+  - so confused!
 * The easiest way that comes up to my mind was - *Creating a meme!*
  
  
+
+
+**MEAT?**
+![happy_meat](https://user-images.githubusercontent.com/101973776/159407168-4c95dc39-bc8c-4d51-9878-50fa946a1261.jpg)
+
+**Or VEGE?**
+![healthy_vege](https://user-images.githubusercontent.com/101973776/159407200-1a426aa6-1ca6-4cb9-877e-937e3a6c6c4e.jpg)
+
+**OUTCOME**
+![my_meme](https://user-images.githubusercontent.com/101973776/159407217-8d234898-b075-48f8-8e4f-aae0a93aa61e.jpg)
